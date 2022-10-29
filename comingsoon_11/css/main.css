@@ -255,6 +255,16 @@ Primary use:
 
 /*---------------------------------------------*/
 
+.logo {
+  font-size: 1.5rem;
+  color: #fff;
+  font-weight: bold;
+}
+
+.logo span {
+  color: #d34000;
+}
+
 .text {
   color: #fff;
   font-family: 'Oooh Baby';
