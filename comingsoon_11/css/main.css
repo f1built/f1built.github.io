@@ -6,6 +6,7 @@ Assigned to:  Bach Le
 Primary use:  
 -------------------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,500&display=swap');
 
 
 /*//////////////////////////////////////////////////////////////////
@@ -256,7 +257,7 @@ Primary use:
 /*---------------------------------------------*/
 
 .logo {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   color: #fff;
   font-weight: bold;
 }
@@ -267,9 +268,10 @@ Primary use:
 
 .text {
   color: #fff;
-  font-family: 'Oooh Baby';
-  font-weight: bold;
-  font-size: 50px;
+  font-family: 'Rubik';
+  font-weight: 500;
+  font-style: italic;
+  font-size: 55px;
 }
 
 .text-date {
