@@ -257,13 +257,7 @@ Primary use:
 /*---------------------------------------------*/
 
 .logo {
-  font-size: 1.6rem;
-  color: #fff;
-  font-weight: bold;
-}
-
-.logo span {
-  color: #d34000;
+  height: 13rem;
 }
 
 .text {
