@@ -258,6 +258,8 @@ Primary use:
 
 .logo {
   height: 13rem;
+  margin-top: -4rem;
+  margin-left: -2rem;
 }
 
 .text {
