@@ -401,6 +401,10 @@ button:hover {
     text-align: justify;
 }
 
+.post-text, .italic {
+    font-style: italic;
+}
+
 /* share display */
 .share {
     display: flex;
